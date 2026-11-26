@@ -19,14 +19,6 @@ export const categories = [
 export const works = [
   {
     id: 1,
-    src: w("rudra-key"),
-    title: "Transform your space into a masterpiece",
-    client: "Rudra Interiors",
-    cat: "Interiors",
-    note: "Social media poster",
-  },
-  {
-    id: 2,
     src: w("amantran-table"),
     title: "Dine together",
     client: "Aamantran Family Restro",
@@ -34,7 +26,7 @@ export const works = [
     note: "Instagram post",
   },
   {
-    id: 3,
+    id: 2,
     src: w("petals-studio"),
     title: "Elegant nails, endless shine",
     client: "Petals & Polish Nail Studio",
@@ -42,7 +34,7 @@ export const works = [
     note: "Brand poster",
   },
   {
-    id: 4,
+    id: 3,
     src: w("kirti-agarbatti"),
     title: "Pure fragrance, divine experience",
     client: "Kirti Agarbatti",
@@ -50,7 +42,7 @@ export const works = [
     note: "Product ad",
   },
   {
-    id: 5,
+    id: 4,
     src: w("tuition"),
     title: "8th to 12th tuition",
     client: "Tuition classes",
@@ -58,7 +50,7 @@ export const works = [
     note: "Admission banner",
   },
   {
-    id: 6,
+    id: 5,
     src: w("amantran-biryani"),
     title: "Special chicken biryani",
     client: "Aamantran Family Restro",
@@ -66,7 +58,7 @@ export const works = [
     note: "Menu highlight",
   },
   {
-    id: 7,
+    id: 6,
     src: w("rudra-model"),
     title: "Modern design, cozy vibes",
     client: "Rudra Interiors",
@@ -74,7 +66,7 @@ export const works = [
     note: "Social media poster",
   },
   {
-    id: 8,
+    id: 7,
     src: w("petals-offer"),
     title: "Summer offer, 20% off",
     client: "Petals & Polish Nail Studio",
@@ -82,7 +74,7 @@ export const works = [
     note: "Offer poster",
   },
   {
-    id: 9,
+    id: 8,
     src: w("invite-gulhane"),
     title: "Haldi welcome invite",
     client: "Gulhane Family",
@@ -90,12 +82,20 @@ export const works = [
     note: "Digital invitation",
   },
   {
-    id: 10,
+    id: 9,
     src: w("amantran-butter-chicken"),
     title: "Royal butter chicken",
     client: "Aamantran Family Restro",
     cat: "Food",
     note: "Dish poster",
+  },
+  {
+    id: 10,
+    src: w("rudra-key"),
+    title: "Transform your space into a masterpiece",
+    client: "Rudra Interiors",
+    cat: "Interiors",
+    note: "Social media poster",
   },
   {
     id: 11,
@@ -146,7 +146,7 @@ export const works = [
     note: "Festival greeting",
   },
   {
-    id: 18,
+    id: 17,
     src: w("amantran-paneer"),
     title: "Delicious paneer angara",
     client: "Aamantran Family Restro",
@@ -154,7 +154,7 @@ export const works = [
     note: "Dish poster",
   },
   {
-    id: 19,
+    id: 18,
     src: w("kirti-kojagiri"),
     title: "Kojagiri Purnima wishes",
     client: "Kirti Agarbatti",
@@ -163,7 +163,7 @@ export const works = [
   },
 
   {
-    id: 21,
+    id: 19,
     src: w("amantran-dal-makhani"),
     title: "Dal makhani",
     client: "Aamantran Family Restro",
@@ -171,7 +171,7 @@ export const works = [
     note: "Dish poster",
   },
   {
-    id: 22,
+    id: 20,
     src: w("amantran-navratri"),
     title: "Happy Navratri",
     client: "Aamantran Family Restro",
@@ -179,7 +179,7 @@ export const works = [
     note: "Festival greeting",
   },
   {
-    id: 14,
+    id: 21,
     src: w("amantran-gatari"),
     title: "Gatari Mahotsav menu",
     client: "Aamantran Family Restro",
@@ -188,7 +188,7 @@ export const works = [
   },
 
   {
-    id: 16,
+    id: 22,
     src: w("amantran-kojagiri"),
     title: "Kojagiri Purnima",
     client: "Aamantran Family Restro",
@@ -196,7 +196,7 @@ export const works = [
     note: "Festival greeting",
   },
   {
-    id: 17,
+    id: 23,
     src: w("gold-loan-1"),
     title: "Gold loan",
     client: "Chandrabhaga Mahila Urban Credit Co-operative Society",
@@ -204,7 +204,7 @@ export const works = [
     note: "Service poster",
   },
   {
-    id: 20,
+    id: 24,
     src: w("gold-loan-2"),
     title: "Gold loan, your gold your freedom",
     client: "Chandrabhaga Mahila Urban Credit Co-operative Society",
